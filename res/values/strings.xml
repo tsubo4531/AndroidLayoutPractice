@@ -2,7 +2,7 @@
 <resources>
 
     <string name="app_name">LayoutPractice</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_world">Hello world! コミット1</string>
     <string name="action_settings">Settings</string>
     <string name="gravity_right1">Gravity Right1</string>
     <string name="gravity_right2">Gravity Right2</string>
